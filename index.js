@@ -28,4 +28,3 @@ else {
 }
 console.log("THE END");
  
-console.log("thank you")

@@ -27,3 +27,5 @@ else {
     console.log("please select valid operator");
 }
 console.log("THE END");
+ 
+console.log("thank you")
